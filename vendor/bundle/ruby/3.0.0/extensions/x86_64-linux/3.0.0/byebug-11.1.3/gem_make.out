@@ -1,0 +1,22 @@
+current directory: /home/dan/Development/phase4/phase-4-password-protection-lab/vendor/bundle/ruby/3.0.0/gems/byebug-11.1.3/ext/byebug
+/home/dan/.rbenv/versions/3.0.0/bin/ruby -I /home/dan/.rbenv/versions/3.0.0/lib/ruby/site_ruby/3.0.0 extconf.rb
+creating Makefile
+
+current directory: /home/dan/Development/phase4/phase-4-password-protection-lab/vendor/bundle/ruby/3.0.0/gems/byebug-11.1.3/ext/byebug
+make DESTDIR\= sitearchdir\=./.gem.20230325-18573-amg1zp sitelibdir\=./.gem.20230325-18573-amg1zp clean
+
+current directory: /home/dan/Development/phase4/phase-4-password-protection-lab/vendor/bundle/ruby/3.0.0/gems/byebug-11.1.3/ext/byebug
+make DESTDIR\= sitearchdir\=./.gem.20230325-18573-amg1zp sitelibdir\=./.gem.20230325-18573-amg1zp
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.so
+
+current directory: /home/dan/Development/phase4/phase-4-password-protection-lab/vendor/bundle/ruby/3.0.0/gems/byebug-11.1.3/ext/byebug
+make DESTDIR\= sitearchdir\=./.gem.20230325-18573-amg1zp sitelibdir\=./.gem.20230325-18573-amg1zp install
+/bin/install -c -m 0755 byebug.so ./.gem.20230325-18573-amg1zp/byebug
+
+current directory: /home/dan/Development/phase4/phase-4-password-protection-lab/vendor/bundle/ruby/3.0.0/gems/byebug-11.1.3/ext/byebug
+make DESTDIR\= sitearchdir\=./.gem.20230325-18573-amg1zp sitelibdir\=./.gem.20230325-18573-amg1zp clean

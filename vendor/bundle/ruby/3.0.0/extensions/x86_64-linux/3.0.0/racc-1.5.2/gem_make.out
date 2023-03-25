@@ -1,0 +1,19 @@
+current directory: /home/dan/Development/phase4/phase-4-password-protection-lab/vendor/bundle/ruby/3.0.0/gems/racc-1.5.2/ext/racc/cparse
+/home/dan/.rbenv/versions/3.0.0/bin/ruby -I /home/dan/.rbenv/versions/3.0.0/lib/ruby/site_ruby/3.0.0 extconf.rb
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /home/dan/Development/phase4/phase-4-password-protection-lab/vendor/bundle/ruby/3.0.0/gems/racc-1.5.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230325-18573-ui5i2f sitelibdir\=./.gem.20230325-18573-ui5i2f clean
+
+current directory: /home/dan/Development/phase4/phase-4-password-protection-lab/vendor/bundle/ruby/3.0.0/gems/racc-1.5.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230325-18573-ui5i2f sitelibdir\=./.gem.20230325-18573-ui5i2f
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/dan/Development/phase4/phase-4-password-protection-lab/vendor/bundle/ruby/3.0.0/gems/racc-1.5.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230325-18573-ui5i2f sitelibdir\=./.gem.20230325-18573-ui5i2f install
+/bin/install -c -m 0755 cparse.so ./.gem.20230325-18573-ui5i2f/racc
+
+current directory: /home/dan/Development/phase4/phase-4-password-protection-lab/vendor/bundle/ruby/3.0.0/gems/racc-1.5.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230325-18573-ui5i2f sitelibdir\=./.gem.20230325-18573-ui5i2f clean
